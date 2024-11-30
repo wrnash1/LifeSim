@@ -37,6 +37,7 @@ LifeSim aims to provide players with a truly immersive and unforgettable gaming 
     * Godot
 
 **Project Structure**
+```bash
 life_sim/
 ├── backend/
 │   ├── app/
