@@ -38,7 +38,7 @@ LifeSim aims to provide players with a truly immersive and unforgettable gaming 
 
 **Project Structure**
 ```bash
-life_sim/
+lifesim/
 ├── backend/
 │   ├── app/
 │   │   ├── init.py
@@ -64,29 +64,29 @@ life_sim/
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your_username/life_sim.git](https://github.com/your_username/life_sim.git)
+   git clone [https://github.com/wrnash1/lifesim.git](https://github.com/wrnash1/lifesim.git)
 Set up the Backend:
 Activate the virtual environment:
-Bash
+```bash
 source venv/bin/activate
 
 Run migrations:
-Bash
+```bash
 python manage.py migrate
-
+```
 Start the development server:
-Bash
+```bash
 python manage.py runserver
-
+```
 Set up the Frontend:
 Install dependencies:
-Bash
+```bash
 npm install
-
+```
 Start the development server:
-Bash
+```bash
 npm start
-
+```
 Set up Godot Project:
 Open the Godot project in the godot_project directory.
 Run the project to test game mechanics and 3D environments.
@@ -105,6 +105,5 @@ User-Generated Content: Enable players to create their own mods and content.
 Contributing
 
 We welcome contributions from the community. Please feel free to fork the repository, make changes, and submit pull requests.
-Remember to replace your_username with your actual GitHub username.
 
 Let's build a vibrant and immersive virtual world together!
