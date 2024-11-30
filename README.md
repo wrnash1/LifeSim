@@ -69,7 +69,7 @@ Set up the Backend:
 Activate the virtual environment:
 ```bash
 source venv/bin/activate
-
+```
 Run migrations:
 ```bash
 python manage.py migrate
