@@ -58,7 +58,7 @@ life_sim/
 ├── godot_project/
 ├── README.md
 
-
+```
 
 **Getting Started**
 
